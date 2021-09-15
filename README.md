@@ -1,2 +1,2 @@
 # ML-Trial
-ML Trial Tasks for ByteCorp ML Engineer
+ML Trial Tasks for a Company ML Engineer
